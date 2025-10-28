@@ -1,0 +1,14 @@
+C:\Users\zidan\RustroverProjects\backend\frontend\target\debug\deps\serde-c6ffe4042c786958.d: C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\zidan\RustroverProjects\backend\frontend\target\debug\build\serde-100ae2e227551a10\out/private.rs
+
+C:\Users\zidan\RustroverProjects\backend\frontend\target\debug\deps\libserde-c6ffe4042c786958.rlib: C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\zidan\RustroverProjects\backend\frontend\target\debug\build\serde-100ae2e227551a10\out/private.rs
+
+C:\Users\zidan\RustroverProjects\backend\frontend\target\debug\deps\libserde-c6ffe4042c786958.rmeta: C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\zidan\RustroverProjects\backend\frontend\target\debug\build\serde-100ae2e227551a10\out/private.rs
+
+C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\zidan\RustroverProjects\backend\frontend\target\debug\build\serde-100ae2e227551a10\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\zidan\\RustroverProjects\\backend\\frontend\\target\\debug\\build\\serde-100ae2e227551a10\\out
