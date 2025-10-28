@@ -1,0 +1,10 @@
+C:\Users\zidan\RustroverProjects\backend\frontend\target\debug\deps\gloo_console-3ad5a9688055bbc3.d: C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.3.0\src\lib.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.3.0\src\console_dbg.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.3.0\src\counter.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.3.0\src\externs.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.3.0\src\macros.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.3.0\src\timer.rs
+
+C:\Users\zidan\RustroverProjects\backend\frontend\target\debug\deps\libgloo_console-3ad5a9688055bbc3.rmeta: C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.3.0\src\lib.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.3.0\src\console_dbg.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.3.0\src\counter.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.3.0\src\externs.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.3.0\src\macros.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.3.0\src\timer.rs
+
+C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.3.0\src\lib.rs:
+C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.3.0\src\console_dbg.rs:
+C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.3.0\src\counter.rs:
+C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.3.0\src\externs.rs:
+C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.3.0\src\macros.rs:
+C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-console-0.3.0\src\timer.rs:
