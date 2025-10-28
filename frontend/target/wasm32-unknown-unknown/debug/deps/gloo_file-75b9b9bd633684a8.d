@@ -1,0 +1,11 @@
+C:\Users\zidan\RustroverProjects\backend\frontend\target\wasm32-unknown-unknown\debug\deps\gloo_file-75b9b9bd633684a8.d: C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-file-0.3.0\src\lib.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-file-0.3.0\src\blob.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-file-0.3.0\src\file_list.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-file-0.3.0\src\file_reader.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-file-0.3.0\src\object_url.rs
+
+C:\Users\zidan\RustroverProjects\backend\frontend\target\wasm32-unknown-unknown\debug\deps\libgloo_file-75b9b9bd633684a8.rlib: C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-file-0.3.0\src\lib.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-file-0.3.0\src\blob.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-file-0.3.0\src\file_list.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-file-0.3.0\src\file_reader.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-file-0.3.0\src\object_url.rs
+
+C:\Users\zidan\RustroverProjects\backend\frontend\target\wasm32-unknown-unknown\debug\deps\libgloo_file-75b9b9bd633684a8.rmeta: C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-file-0.3.0\src\lib.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-file-0.3.0\src\blob.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-file-0.3.0\src\file_list.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-file-0.3.0\src\file_reader.rs C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-file-0.3.0\src\object_url.rs
+
+C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-file-0.3.0\src\lib.rs:
+C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-file-0.3.0\src\blob.rs:
+C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-file-0.3.0\src\file_list.rs:
+C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-file-0.3.0\src\file_reader.rs:
+C:\Users\zidan\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gloo-file-0.3.0\src\object_url.rs:
